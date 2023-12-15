@@ -47,7 +47,27 @@ AtliQ Hardware has been quickly expanding in recent years, and they have opted t
 Connected MySQL database to power Bi. 
 
 # Data Modelling :- 
-<img width="628" alt="image" src="https://github.com/tripathy406/Business-360-Supply-Chain-Analytics/assets/141568396/6f5631ab-683d-40c8-a579-50d0c95bedb6"> 
+<img width="628" alt="image" src="https://github.com/tripathy406/Business-360-Supply-Chain-Analytics/assets/141568396/6f5631ab-683d-40c8-a579-50d0c95bedb6">  
+
+# Home View
+<img width="670" alt="image" src="https://github.com/Trilochan-Tripathy/Business-360-Supply-Chain-Analytics/assets/141568396/f06f403e-285f-4587-b07d-08cc2da5ec6c"> 
+
+# Finance View
+<img width="668" alt="image" src="https://github.com/Trilochan-Tripathy/Business-360-Supply-Chain-Analytics/assets/141568396/c4a71c8e-e4d8-4c6c-9df6-4abbb79355b1">
+
+# Sales View
+<img width="667" alt="image" src="https://github.com/Trilochan-Tripathy/Business-360-Supply-Chain-Analytics/assets/141568396/b6cbc9b1-d6e0-43b1-b4f9-47602352bede">
+
+# Marketing View
+<img width="668" alt="image" src="https://github.com/Trilochan-Tripathy/Business-360-Supply-Chain-Analytics/assets/141568396/6ebf4b1c-5124-4d27-9aba-3dc5100eb5bc"> 
+
+# Product View
+<img width="667" alt="image" src="https://github.com/Trilochan-Tripathy/Business-360-Supply-Chain-Analytics/assets/141568396/3e206985-12ef-412f-bb00-3fb5f256436d">
+
+
+
+
+
 
 
 
